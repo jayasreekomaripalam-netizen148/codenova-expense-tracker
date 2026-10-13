@@ -1,0 +1,4 @@
+expenses.db
+*.csv
+__pycache__/
+*.py[cod]
